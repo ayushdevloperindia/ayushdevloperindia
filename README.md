@@ -1,16 +1,17 @@
-# 💫 Hi 👋, I'm Imran Alam
-**A passionate Cloud Engineer || DevOps Engineer || Kafka Admin from India**
+ # 👋 Hi, I'm Ayush Gupta
 
-Email Me 👉 ✉️ **alamimran613@live.com** For Collaboration/Project or Anything Else. 😊😊
+**💻 B.Tech Student | Aspiring Software Developer | Web Development Enthusiast**
 
-- 🔭 **I’m currently working on:** Enter your project info here
-- 🌱 **I’m currently learning:** Enter your tech here
-- 👯 **I’m looking to collaborate on:** Enter your project name and info
-- 🤔 **I’m looking for help with:** Your project here
-- 💬 **Ask me about:** Collaboration, Tech Support
-- 📫 **How to reach me:** Enter your email here
-- 😄 **Pronouns:** Imran Sir
-- ⚡ **Fun fact:** I Love Tech and Tech Love Me
+📧 **Email Me:** ayushgupta630633@gmail.com
+
+- 🚀 **I'm currently working on:** Web Development Projects
+- 🌱 **I'm currently learning:** HTML, CSS, JavaScript, DSA & Full-Stack Web Development
+- 🤝 **I'm looking to collaborate on:** Beginner-Friendly Web Development Projects
+- 🎯 **I'm looking for help with:** Improving my Development & Problem-Solving Skills
+- 💬 **Ask me about:** HTML, CSS, JavaScript, LinkedIn Growth
+- 📫 **How to reach me:** ayushgupta630633@gmail.com
+- 😄 **Pronouns:** He/Him
+- ⚡ **Fun fact:** My project was selected for the IDE Bootcamp and presented at BHU.
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/ayush-gupta-349a5b3a8) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ayushgupta630633@gmail.com) 
 
